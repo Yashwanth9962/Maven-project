@@ -5,7 +5,11 @@
 
   <modelVersion>4.0.3</modelVersion>
   <groupId>in.ashokit</groupId>
+<<<<<<< HEAD
   <artifactId>my-app-maven</artifactId>
+=======
+  <artifactId>my-maven-app</artifactId>
+>>>>>>> 1b3c8f2ad9844a2ceb161b718fabc10db5dd3e69
   <version>1.0-SNAPSHOT</version>
 
   <name>my-app</name>
